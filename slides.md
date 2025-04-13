@@ -205,7 +205,7 @@ layout: quote
 # Psalm 18:46--50
 You delivered me from strife with the peoples;\
 &emsp;you made me head of the nations;\
-&emsp;people whom I had not known <span v-mark="{ color: '#b5595f', type: 'highlight', click: 1 }">served me</span>\.\.\.\.\
+&emsp;people whom I had not known <span v-mark="{ color: '#b5595f', type: 'highlight', click: 1 }">\[obeyed\] me</span>\.\.\.\.\
 For this I will extol you, O <sc>Lord</sc>, among the nations,\
 &emsp;and sing praises to your name.\
 Great triumphs he gives to his king,\
