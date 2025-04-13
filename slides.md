@@ -231,3 +231,10 @@ layout: statement
 
 # Christ, the son of David, is the promised seed of Abraham.
 # The subjugation of the nations to Israel's king is accomplished through the proclamation of the gospel.
+
+<!--
+* David's prophetic voice is used to help Paul talk about what God has done in Christ, but also to revoice the Psalms in the mouth of Jesus.
+* God's promises to David are connected to the promises to Abraham.
+* Jesus as David's descendant is the one who obtains the obedience of the Gentiles. Unlike David, however, this happens through the proclamation of the gospel, not through political subjugation.
+  * Nevertheless, for Paul, this does not make Jesus any less the "root of Jesse"; Jesus's status as Israel's king *and* the hope of the Gentiles are not at odds with one another. Jesus doesn't need to abandon his messiahship so that the Gentiles may worship Israel's god.
+-->
