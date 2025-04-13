@@ -189,3 +189,45 @@ and again Isaiah says,\
 &emsp;“The root of Jesse shall come,\
 &emsp;&emsp;the one who rises to rule the Gentiles;\
 &emsp;in him the Gentiles shall hope” (Isa 11:10).
+
+<!--
+* Once again we see that Paul seems to place the words of Prophet David in the mouth of Jesus, although less explicitly as before. Nevertheless, the words of the Psalms are being used as the content of Christ's declaration to the Gentiles.
+* Perhaps more interesting, however, is what Paul does with Isa 11.
+  * Isaiah 11 describes God's reclaiming of his scattered people from the nations, reversing the sentence of exile imposed on Israel as a result of the covenant curses of Deut 28.
+  * However, the gathering of the nations to the "root of Jesse" also involves Israel's plundering of those nations. The assembly of Israel subjugates Philistia, Edom, Moab, Egypt, and Assyria.
+  * Thus, the Gentiles praise God and gather to Israel's king as vassals.
+-->
+
+---
+layout: quote
+---
+
+# Psalm 18:46--50
+You delivered me from strife with the peoples;\
+&emsp;you made me head of the nations;\
+&emsp;people whom I had not known <span v-mark="{ color: '#b5595f', type: 'highlight', click: 1 }">served me</span>\.\.\.\.\
+For this I will extol you, O <sc>Lord</sc>, among the nations,\
+&emsp;and sing praises to your name.\
+Great triumphs he gives to his king,\
+&emsp;and shows steadfast love to his anointed,\
+&emsp;to David and his descendants forever.
+
+# Isaiah 11:14
+They shall put forth their hand against Edom and Moab,\
+&emsp;and the Ammonites shall <span v-mark="{ color: '#b5595f', type: 'highlight', click: 1 }">obey them.</span> 
+
+---
+layout: quote
+---
+
+# Romans 15:15--19
+Nevertheless on some points I have written to you rather boldly by way of reminder, because of the grace given me by God to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the offering of the Gentiles may be acceptable, sanctified by the Holy Spirit.
+In Christ Jesus, then, I have reason to boast of my work for God.
+For I will not venture to speak of anything except what Christ has accomplished through me to win <span v-mark="{ color: '#b5595f', type: 'highlight', click: 1 }">obedience from the Gentiles</span>, by word and deed, by the power of signs and wonders, by the power of the Spirit of God, so that from Jerusalem and as far around as Illyricum I have fully proclaimed the good news of Christ.
+
+---
+layout: statement
+---
+
+# Christ, the son of David, is the promised seed of Abraham.
+# The subjugation of the nations to Israel's king is accomplished through the proclamation of the gospel.
